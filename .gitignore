@@ -4,3 +4,5 @@ roleid
 secretid
 *.auto.tfvars
 *.tfvars
+.terraform
+*tfstate*
