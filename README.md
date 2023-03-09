@@ -2,7 +2,7 @@
 
 This is an example on how to use the Vault agent to retrieve PKI certs from Vault.
 
-An example on how to setup Vault PKI is provided on `vault.tf.tmp` file
+An example on how to setup Vault PKI is provided on `vault.tf` file
 
 How to use it
 
