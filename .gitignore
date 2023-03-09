@@ -1,0 +1,6 @@
+.dccache
+tmp/
+roleid
+secretid
+*.auto.tfvars
+*.tfvars
